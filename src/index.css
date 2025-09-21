@@ -1470,6 +1470,19 @@ header .brand-logo img{
   }
 }
 
+html, body, #root {
+  margin: 0 !important;
+  padding: 0 !important;
+  overflow-x: hidden;
+}
+.chat-gpt-query-model .flip-y {
+  display: none !important;
+  position: absolute !important;
+  left: -9999px !important;
+}
+* {
+  box-sizing: border-box;
+}
 
 @media screen and (max-width: 400px){
     html {
