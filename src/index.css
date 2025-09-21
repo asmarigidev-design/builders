@@ -217,6 +217,7 @@ header ul li:hover::before{
 }
 header .brand-logo{
     width: 8%;
+   padding-top: 9px;
 
 
 }

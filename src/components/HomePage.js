@@ -144,7 +144,7 @@ const Header = () => {
               <FontAwesomeIcon 
                 icon={faBuilding} // استفاده از آیکون / Using icon
                 size="2x" 
-                style={{ color: "#faa000", paddingTop: "15px" }} 
+                style={{ color: "#faa000", paddingTop: "0px" }} 
               />
             </a>
           </div>
